@@ -1,15 +1,23 @@
 {
   "name": "nestjs_swagger_utils",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.1",
+  "description": "Nestjs Swagger Utils",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Mike Lima <mike.rodrigues.lima@gmail.com>",
+  "homepage": "https://github.com/mikemajesty/nestjs_swagger_utils#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikemajesty/nestjs_swagger_utils.git"
+  },
+  "license": "MIT",
   "dependencies": {
     "@nestjs/swagger": "^5.1.5"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/mikemajesty/nestjs_swagger_utils/issues"
+  },
+  "devDependencies": {}
 }

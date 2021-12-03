@@ -1,6 +1,6 @@
 {
   "name": "nestjs-swagger-utils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Nestjs Swagger Utils",
   "main": "dist/index.js",
   "scripts": {

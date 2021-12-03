@@ -18,7 +18,7 @@ type SwaggerJSON = {
   description?: string;
 };
 
-export default class Swagger {
+export class Swagger {
   static defaultResponseError({ status, error, description }: SwaggerError): ApiResponseOptions {
     return {
       schema: {

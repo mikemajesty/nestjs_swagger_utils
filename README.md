@@ -2,6 +2,12 @@
 
 --
 
+## Installation
+
+```sh
+$ npm i nestjs-swagger-utils
+```
+
 ## Usage
 
 ```js
@@ -23,7 +29,7 @@ export class HealthController {
 }
 ```
 
-#### If you prefer to centralize swagger documantation
+#### If you prefer to centralized swagger documentation
 
  - Create a Swagger class on each module, exemple
  
